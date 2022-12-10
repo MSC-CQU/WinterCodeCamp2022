@@ -4,7 +4,7 @@ WinterCodeCamp is an online training camp for members of MSC to code together an
 
 ## Main Topic
 
-**"Powertoys" on linux **(Still in negtiation)
+"Powertoys" on linux (Still in negotiation)
 
 ## Sub-Projects
 
