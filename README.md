@@ -20,3 +20,9 @@ WinterCodeCamp is an online training camp for members of MSC to code together an
     - *1/15 (optional)*
     - 1/21
     - 1/22
+- Command-line
+  - Resource
+    - [The-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/)
+    - [Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
+  - Demand
+    - NULL
