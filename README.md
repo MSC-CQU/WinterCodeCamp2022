@@ -1,13 +1,15 @@
 # WinterCodeCamp 2022
 
-`
  _       ______________   ___   ____ ___  ___ 
+
 | |     / / ____/ ____/  |__ \ / __ \__ \|__ \
+
 | | /| / / /   / /       __/ // / / /_/ /__/ /
+
 | |/ |/ / /___/ /___    / __// /_/ / __// __/ 
+
 |__/|__/\____/\____/   /____/\____/____/____/ 
 
-`
  
 WinterCodeCamp is an online training camp for members of MSC to code together and learn new skills.
 
