@@ -5,7 +5,19 @@
 | |     / / ____/ ____/  |__ \ / __ \__ \|__ \
 | | /| / / /   / /       __/ // / / /_/ /__/ /
 | |/ |/ / /___/ /___    / __// /_/ / __// __/ 
-|__/|__/\____/\____/   /____/\____/____/____/ 
+|__/|__/\____/\____/   /____/\____/____/____/
+    __  __                       
+   / / / /___ _____  ____  __  __
+  / /_/ / __ `/ __ \/ __ \/ / / /
+ / __  / /_/ / /_/ / /_/ / /_/ / 
+/_/ /_/\__,_/ .___/ .___/\__, /  
+           /_/   /_/    /____/   
+   ______          ___            
+  / ____/___  ____/ (_)___  ____ _
+ / /   / __ \/ __  / / __ \/ __ `/
+/ /___/ /_/ / /_/ / / / / / /_/ / 
+\____/\____/\__,_/_/_/ /_/\__, /  
+                         /____/    
 ```
 
 WinterCodeCamp is an online training camp for members of MSC to code together and learn new skills.
@@ -34,3 +46,4 @@ WinterCodeCamp is an online training camp for members of MSC to code together an
     - [Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
   - Demand
     - NULL                                              
+
