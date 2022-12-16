@@ -24,11 +24,11 @@ WinterCodeCamp is an online training camp for members of MSC to code together an
 
 ## Main Topic
 
-"Powertoys" on linux (Still in negotiation)
+Campus service & tools
 
-## Sub-Projects
+## Projects
 
-*We will update newest ideas here.*
+- CQuark
 
 ## Pre-learn Guide
 
