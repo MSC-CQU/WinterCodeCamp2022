@@ -45,5 +45,15 @@ Campus service & tools
     - [The-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/)
     - [Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/)
   - Demand
-    - NULL                                              
-
+    - NULL                                        
+- Android
+  - (Official) Comprehensive Tutorial [Android Developer](https://developer.android.com/)
+  - Java
+    - Books: Head First Java; Effective Java
+    - Online courses: [Object-Oriented Programming in Java Specialization by Coursera](https://coursera.pxf.io/vn9POO?subId3=blog%2Fbest-java-courses_amcid-JoEYYgl7xqV6ABqJEMPUi); [Java Programming: Solving Problems with Software by Coursera](https://coursera.pxf.io/MXvAW3?subId3=blog%2Fbest-java-courses_amcid-2F33xAEiYiEoF3Oexm7JZ)
+  - Kotlin
+    - [Official Docs](https://kotlinlang.org/docs/home.html)
+  - XML
+    - [Good online tutorial](https://www.w3schools.com/xml/)
+- Python
+  - Easy for you, right? Any course set or online tutorial is ok.
