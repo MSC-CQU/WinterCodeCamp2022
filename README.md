@@ -57,3 +57,7 @@ Campus service & tools
     - [Good online tutorial](https://www.w3schools.com/xml/)
 - Python
   - Easy for you, right? Any course set or online tutorial is ok.
+
+## Milestone
+
+- 12.20 Where we start our journey.
