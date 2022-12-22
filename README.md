@@ -30,6 +30,10 @@ Campus service & tools
 
 - CQuark
 
+## Milestone
+
+- 12.20 Where we start our journey.
+
 ## Pre-learn Guide
 
 - Basic knowledge
@@ -56,8 +60,17 @@ Campus service & tools
   - XML
     - [Good online tutorial](https://www.w3schools.com/xml/)
 - Python
-  - Easy for you, right? Any course set or online tutorial is ok.
+  - Books: Python Automation Cookbook; Practical Web Scraping for Data Science; Web Scraping with Python; Python for Data Analysis
 
-## Milestone
+## What should I learn?
 
-- 12.20 Where we start our journey.
+- Frontend
+  - Java basic, Kotlin, Android basic
+- Backend
+  - Python, Linux
+
+## Any questions?
+
+For formal questions, please raise an issue.
+
+For other questions, the discussion board is a suitable place.
