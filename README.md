@@ -32,7 +32,8 @@ Campus service & tools
 
 ## Milestone
 
-- 12.20 Where we start our journey.
+- 2022.12.20 Where we start our journey.
+- 2023.1.1 Finish basic training.
 
 ## Pre-learn Guide
 
