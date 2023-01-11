@@ -13,6 +13,13 @@
         android:theme="@style/Theme.CQUark"
         tools:targetApi="31">
         <activity
+            android:name=".timetable"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
@@ -27,6 +34,14 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity
+            android:exported="false"
+            android:name=".timetable"
+            tools:ignore="DuplicateActivity">
+
+        <meta-data android:name="android.app.lib_name" android:value=""/>
+    </activity>
+
     </application>
 
 </manifest>
