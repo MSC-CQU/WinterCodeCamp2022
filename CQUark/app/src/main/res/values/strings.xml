@@ -2,12 +2,30 @@
     <string name="app_name">CQUark</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">应用列表</string>
+    <string name="nav_header_subtitle">MSC@CQU</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">设置</string>
+    <string name="recent_task">Recent Task</string>
+    <string name="contend_Null">Null</string>
+    <string name="task">Task</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_home">日程表</string>
+    <string name="menu_gallery">课程表</string>
+    <string name="menu_slideshow">考试安排</string>
+    <string name="menu_login">登录</string>
+
+    <string name="prompt_email">请输入统一身份认证号</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">不是有效的用户名</string>
+    <string name="invalid_password">密码必须大于 5 个字符</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_success">您已成功登录</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_text">Welcome to CQUark!</string>
+    <string name="welcome_fragment">Start</string>
+    <string name="welcome_text2">日程表，课表，考试安排</string>
 </resources>
